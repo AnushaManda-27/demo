@@ -1,3 +1,4 @@
 #! /bin/bash
 
-echo "hello welcome"
+echo "nano welcome"
+
